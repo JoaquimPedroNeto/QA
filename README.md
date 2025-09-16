@@ -1,7 +1,7 @@
 # 👋 Seja bem-vindo!
-Migrando de Analista de Licitações para QA , com foco em testes manuais, automação inicial e colaboração em métodos ágeis 🚀.
+Migrando para QA , com foco em testes manuais, automação inicial e colaboração em métodos ágeis 🚀.
 
-Principais Ferramentas
+Principais Ferramentas:
 
 🖥️ Selenium (automação web)
 
@@ -13,11 +13,11 @@ Principais Ferramentas
 
 💾 Git/GitHub (versionamento e documentação)
 
-Metodologias
+Metodologias:
 
 🔄 Scrum (métodos ágeis e trabalho em equipe)
 
-Habilidades
+Habilidades:
 
 🎯 Elaboração e execução de casos de teste
 
@@ -27,6 +27,11 @@ Habilidades
 
 📈 Interesse por evolução em automação
 
-Objetivo
+Objetivo:
 
 Desenvolver habilidades em QA e contribuir para projetos de alta qualidade ⚡
+
+Em breve postarei alguns dos projetoes e estudos que venho realizando. 
+
+Linkedin:
+https://www.linkedin.com/in/joaquim-pedro-445a51148/
