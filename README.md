@@ -14,9 +14,11 @@ Principais Ferramentas
 💾 Git/GitHub (versionamento e documentação)
 
 Metodologias
+
 🔄 Scrum (métodos ágeis e trabalho em equipe)
 
 Habilidades
+
 🎯 Elaboração e execução de casos de teste
 
 🐞 Reporte de bugs e documentação clara
@@ -26,4 +28,5 @@ Habilidades
 📈 Interesse por evolução em automação
 
 Objetivo
+
 Desenvolver habilidades em QA e contribuir para projetos de alta qualidade ⚡
